@@ -27,7 +27,8 @@ Diferentes empresas recorrem a esta ferramenta de pesquisa porque o cliente mist
 
 O ponto em comum de todos os trabalhos do cliente mistério é saber se o atendimento é bem feito no sentido de receção do cliente, simpatia etc. No entanto, há as particularidades de cada estudo. Uma empresa pode ter interesse em saber se estão a ser oferecidos pelos funcionários determinados produtos, como está a ocorrer tal oferta e se o processo está a ser feito como é suposto.
 
-Se pretende que façamos uma avaliação ao seu negócio, entre em [contacto connosco](https://rknoxpt.github.io/jekyll-serif-theme/contactos "Contacte-nos")!
+Se pretende que façamos uma avaliação ao seu negócio, entre em [**contacto connosco**](https://rknoxpt.github.io/jekyll-serif-theme/contactos "Contacte-nos")!
+
 ____
 
 # Objectives 
