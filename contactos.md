@@ -3,7 +3,7 @@ title: Contactos
 layout: contact
 bodyClass: page-contact
 ---
-Envie-nos um email caso pretenda mais informações, teremos todo o gosto em esclarecer as suas dúvidas!
+Envie-nos um email caso pretenda mais informações! Teremos todo o gosto em esclarecer as suas dúvidas!
 
 <!--
 | Day       | Opening Hours   |
