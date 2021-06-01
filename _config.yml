@@ -1,6 +1,6 @@
 baseurl: '/jekyll-serif-theme/'
 permalink: pretty
-title: 'Testing Consulting Group'
+title: 'Product Consulting Group'
 
 google_analytics_id: ""
 
@@ -13,7 +13,7 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Jekyll theme by www.zerostatic.io'
+  copyright_text: 'Jekyll theme by zerostatic.io'
 
 seo:
   meta_og_title: "Jekyll Serif Theme"
