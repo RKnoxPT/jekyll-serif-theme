@@ -6,7 +6,7 @@ main:
   #  url: "/team/"
   #  weight: 3
   - name: "Sobre"
-    url: "/about/"
+    url: "/sobre/"
     weight: 4
   - name: "Contactos"
     url: "/contactos/"
