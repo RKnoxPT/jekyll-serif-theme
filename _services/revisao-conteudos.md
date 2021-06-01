@@ -5,12 +5,13 @@ featured: true
 weight: 3
 layout: service
 ---
+Com a pandemia muitos negócios expandiram para o *online*, e as empresas de criação de websites viram nisso uma grande oportunidade de aumentarem a sua facturação. Infelizmente a maior parte delas não dá o devido valor ao negócio do cliente e cada vez mais existem erros a nível da linguagem e alguns deles bastante grosseiros! 
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Com o **Boom** que ocorreu, e a mão de obra competente cada vez mais cara, muitas empresas praticaram preços bastante simpáticos, mas com o senão de subcontratarem estrangeiros para fazer a criação dos sites e do seu conteúdo. O problema é que as traduções automáticas tornam o trabalho vergonhoso! 
+
+A nossa equipa percorre o site de uma ponta a outra à procura de erros de linguagem (traduções mal efectuadas ou com expressões erradas) e erros de escrita. Dessa forma, ficará com o site totalmente em Português!
+
+__________
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
