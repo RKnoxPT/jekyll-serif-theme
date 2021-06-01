@@ -5,10 +5,30 @@ featured: true
 weight: 1
 layout: service
 ---
+O nome soa misterioso, mas a função é simples e extremamente eficaz: avaliar e revelar a qualidade dos seus produtos e serviços. O cliente mistério entra na loja ou faz uma chamada telefónica como outro qualquer, mas com o propósito de ajudar a melhorar o seu negócio.
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Quer descobrir no que é preciso melhorar para garantir o sucesso comercial da sua empresa? Então, entenda agora como funciona esta ferramenta valiosa nos estudos de mercado e o motivo pelo qual deve utilizá-la.
 
-![Cliente Mistério](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Quem tem os olhos postos no futuro sabe que a orientação da empresa deve ser para o cliente. É por isso que atualmente quando o assunto é vendas e consumo, a palavra-chave é experiência. Cada vez mais lojas de diferentes segmentos têm investido na possibilidade de proporcionar melhores experiências de compras aos consumidores.
+
+Desta feita, é imprescindível saber qual o nível de satisfação dos seus clientes, como são aplicados os padrões da instituição na loja e o que pensam as pessoas sobre a qualidade global dos produtos e serviços oferecidos. Torna-se, portanto, fundamental a utilização do cliente mistério no processo de análise da venda na perspetiva de um consumidor.
+
+## UM CLIENTE COMO OUTRO QUALQUER, MAS COM O PODER DE AVALIAÇÃO
+
+O cliente mistério é uma pessoa contratada que irá entrar na sua loja ou fazer chamadas anónimas para o seu escritório e agir como outro cliente qualquer sem mostrar a sua real intenção: avaliar o serviço. Tudo é feito em sigilo, sem que os envolvidos no atendimento saibam que se trata de um estudo de mercado.
+
+A avaliação geralmente é feita pessoalmente nos pontos de venda, mas há a possibilidade de ser realizada por telefone, e-mail ou navegando pelo website da empresa. A forma como o trabalho é desenvolvido depende muito dos objetivos do estudo realizado.
+
+De um modo geral, os principais pontos verificados são a qualidade do atendimento, o tipo de abordagem que é utilizada pelo funcionário e a eficácia do atendimento para o processo de compra.
+
+## PARA QUE TIPO DE NEGÓCIO O CLIENTE MISTÉRIO É ÚTIL?
+
+Diferentes empresas recorrem a esta ferramenta de pesquisa porque o cliente mistério pode ser aplicado em qualquer tipo de negócio no qual o profissionalismo de um colaborador a vender em loja tenha influência directa na satisfação do consumidor. As experiências do cliente mistério podem ser bastante variadas. É possível avaliar desde o serviço de uma operadora telefónica, até o corte de cabelo num salão de beleza, a performance dos vendedores de uma loja de cosméticos ou colaboradores de um banco.
+
+O ponto em comum de todos os trabalhos do cliente mistério é saber se o atendimento é bem feito no sentido de receção do cliente, simpatia etc. No entanto, há as particularidades de cada estudo. Uma empresa pode ter interesse em saber se estão a ser oferecidos pelos funcionários determinados produtos, como está a ocorrer tal oferta e se o processo está a ser feito como é suposto.
+
+Se pretende que façamos uma avaliação ao seu negócio, entre em [contacto connosco](https://rknoxpt.github.io/jekyll-serif-theme/contactos "Contacte-nos")!
+____
 
 # Objectives 
 
