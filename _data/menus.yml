@@ -9,7 +9,7 @@ main:
     url: "/about/"
     weight: 4
   - name: "Contactos"
-    url: "/contact/"
+    url: "/contactos/"
     weight: 5
 
 footer:
@@ -17,5 +17,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Contactos"
-    url: "/contact/"
+    url: "/contactos/"
     weight: 2
