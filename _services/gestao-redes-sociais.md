@@ -1,6 +1,6 @@
 ---
 title: "Gestão de Redes Sociais"
-date: 2021-05-28T15:15:34+10:00
+date: 2021-05-30T00:15:34+10:00
 featured: true
 weight: 4
 layout: service
