@@ -1,5 +1,5 @@
 ---
-title: "Análise de Produtos"
+title: "Análise de Produto"
 date: 2021-05-28T00:14:39+10:00
 featured: true
 weight: 2
