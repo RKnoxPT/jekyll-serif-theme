@@ -1,17 +1,17 @@
 [
   {
-    "title": "_data/features/1",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Peça-nos um Relatório",
+    "description": "Entre em contacto para receber um Relatório Modelo.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "_data/features/2",
-    "description": "All members of our team are certified accountants.",
+    "title": "Sugestões",
+    "description": "Todos os Relatórios contêm sugestões de implementações de Melhorias",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "_data/features/3",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Comparações",
+    "description": "Sempre que possível será feita uma Comparação com os principais Rivais",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
