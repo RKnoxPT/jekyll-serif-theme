@@ -4,6 +4,15 @@ date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
+-Somos uma pequena equipa que pretende marcar pela singularidade
+-O nosso objectivo é crescer com os nossos clientes
+-Familiar
+-Vontade
+-Atenção ao detalhe
+-Experiência no atend. cliente
+-Experiência em Gestão e Logística
+-Por dentro do mercado
+
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
